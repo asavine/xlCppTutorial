@@ -1,5 +1,4 @@
-# xlCppTutorial
-Exporting C++ code to Excel : a quick and painless tutorial by Antoine Savine
+# Exporting C++ code to Excel : a quick and painless tutorial by Antoine Savine
 
 To export calculation C++ code to Excel is extremely practical. Excel, with all its flexibility and convenience, basically
 becomes the front end of your C++ application for free. 
